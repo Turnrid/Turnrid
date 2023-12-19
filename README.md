@@ -31,7 +31,7 @@
 
 💻 &nbsp; I love breaking down and solving complex problems and building cool stuff.
 
-📰 &nbsp; Reading, Good food, movies and any Tolkien.
+📰 &nbsp; Reading, Good food, movies and anything Tolkien.
 
 </div>
 
