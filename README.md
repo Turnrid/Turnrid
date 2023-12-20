@@ -11,7 +11,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=32B852&center=true&random=false&width=1000&lines=Truth+can+only+be+found+in+one+place%3A+the+code;Always+code+as+if+the+guy+who+ends+up+maintaining+your+code+will+be+a+violent+psychopath+who+knows+where+you+live;Debugging+becomes+significantly+easier+if+you+first+admit+that+you+are+the+problem" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=32B852&center=true&random=false&width=1100&lines=Truth+can+only+be+found+in+one+place%3A+the+code;Always+code+as+if+the+guy+who+ends+up+maintaining+your+code+will+be+a+violent+psychopath+who+knows+where+you+live;Debugging+becomes+significantly+easier+if+you+first+admit+that+you+are+the+problem" alt="Typing SVG" /></a>
 <!-- Typing SVG end -->
 <br>
     <h2 align="center">
