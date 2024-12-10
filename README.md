@@ -22,7 +22,7 @@
 
 🔭 I’m currently working on passing my classes and anything else that peeks my interest
 
-🌱 I’m currently a Senior Computer Science student
+🌱 I’m currently a Masters Computer Science student
 
 <br />
 <h2 align="center">
